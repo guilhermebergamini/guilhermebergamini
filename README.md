@@ -45,7 +45,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://br.linkedin.com/in/guilherme-santiago-bergamini-57348527a?trk=people-guest_people_search-card]
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilherme-santiago-bergamini-57348527a?trk=people-guest_people_search-card)](https://br.linkedin.com/in/guilherme-santiago-bergamini-57348527a?trk=people-guest_people_search-card)
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
