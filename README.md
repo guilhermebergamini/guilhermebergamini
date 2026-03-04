@@ -46,4 +46,4 @@
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme99santiago@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme99santiago@gmail.com)](mailto:guilherme99santiago@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/guilhermebergamini?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/guilhermebergamini?label=follow&style=social)](https://github.com/guilhermebergamini)
