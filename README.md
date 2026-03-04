@@ -39,10 +39,6 @@
 
 <br/>
 
-<a href="https://github.com/guilhermebergamini" title="Perfil do Guilherme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebergamini&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme99santiago@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme99santiago@gmail.com)](mailto:guilherme99santiago@gmail.com)
