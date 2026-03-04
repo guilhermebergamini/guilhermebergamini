@@ -1,10 +1,8 @@
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é Guilherme Santiago Bergamini!
 
-Faça uma breve apresentação sobre você e a sua stack.
+🔭 Estou trabalhando em um projeto de aprendizagem pela Multmidia como parceria da minha universidade.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Caso queira entrar em contato comigo, favor enviar e-mail para: guisantiago09@hotmail.com 
 
 ---
 
